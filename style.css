@@ -1,0 +1,16 @@
+body{
+    background: rgb(116, 57, 101) url('imagens/fundo.png');
+    font: 16px Arial, Helvetica, Sans-serif;
+
+}
+
+#principal{
+    width: 900px;
+    
+}
+#menu{
+
+    background: white;
+    border: 1px solid blue;
+    padding: 18px;
+}
