@@ -11,6 +11,21 @@ body{
 #menu{
 
     background: white;
-    border: 1px solid blue;
     padding: 18px;
+}
+
+#conteudo{
+    background:#fff ;
+    padding: 10px;
+
+}
+
+a {
+    color:rgb(151, 12, 194) ;
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 5px;
+
+    
+
 }
